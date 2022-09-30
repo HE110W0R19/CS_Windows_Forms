@@ -1,0 +1,12 @@
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\bin\Debug\Get_info.exe.config
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\bin\Debug\Get_info.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\bin\Debug\Get_info.pdb
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.Form1.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.pdb
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.Form2.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Get_info\obj\Debug\Get_info.Form3.resources
