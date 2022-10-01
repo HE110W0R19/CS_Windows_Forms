@@ -54,7 +54,6 @@ namespace Get_info
                 }
                 if ((user_mouse.X - mouse_x_cord > 10) && (user_mouse.Y - mouse_y_cord > 10))
                 {
-                    user_static.ForeColor = Color.Black;
                     user_static.BackColor = Color.Black;
                     user_static.ForeColor = Color.White;
                     user_static.Size = new Size(user_mouse.X - mouse_x_cord, user_mouse.Y - mouse_y_cord);

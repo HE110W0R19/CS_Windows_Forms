@@ -1,0 +1,10 @@
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\bin\Debug\Hard_HW.exe.config
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\bin\Debug\Hard_HW.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\bin\Debug\Hard_HW.pdb
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.Form1.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\Hard_HW\obj\Debug\Hard_HW.pdb

@@ -20,7 +20,7 @@ namespace Get_info
         }
 
         private void Move_mouse(object sender, MouseEventArgs user_mouse)
-        {
+        { 
             Text = $"(X: {user_mouse.X} Y: {user_mouse.Y})";
         }
 
