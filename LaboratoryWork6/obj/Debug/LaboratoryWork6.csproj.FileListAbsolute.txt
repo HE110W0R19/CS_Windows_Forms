@@ -1,0 +1,11 @@
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\bin\Debug\LaboratoryWork6.exe.config
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\bin\Debug\LaboratoryWork6.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\bin\Debug\LaboratoryWork6.pdb
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.Form1.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.exe
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.pdb
+C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\LaboratoryWork6\obj\Debug\LaboratoryWork6.Form2.resources
