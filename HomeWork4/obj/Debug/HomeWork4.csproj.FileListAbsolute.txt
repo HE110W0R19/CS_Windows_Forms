@@ -9,3 +9,16 @@ C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\HomeWork4\bin\Debug\HomeWork4.ex
 C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\HomeWork4\bin\Debug\HomeWork4.pdb
 C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.exe
 C:\Users\TuF\Documents\GitHub\CSS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form1.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form2.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form3.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form4.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.pdb
