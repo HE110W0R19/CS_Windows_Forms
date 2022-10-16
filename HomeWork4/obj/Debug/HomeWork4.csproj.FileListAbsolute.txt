@@ -22,3 +22,5 @@ C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.csp
 C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
 C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.exe
 C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form5.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\HomeWork4\obj\Debug\HomeWork4.Form6.resources
