@@ -16,7 +16,7 @@ namespace HomeWork4
         uint cost;
         public string get_all_info => all_info;
         public uint get_cost => cost;
-        public Form4(string type, string info, uint cost)
+        public Form4(string info, uint cost)
         {
             InitializeComponent();
             textBox1.Text = $" Описание:\n{info}\n";
