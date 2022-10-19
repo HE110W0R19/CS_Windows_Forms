@@ -48,9 +48,9 @@
         <Button x:Name="minus" Background="Gray" Grid.Row="3" Grid.Column="3" Click="minus_Click">-</Button>
         <Button x:Name="multy" Background="Gray" Grid.Row="4" Grid.Column="3" Click="multy_Click">*</Button>
         <Button x:Name="divide" Background="Gray" Grid.Row="5" Grid.Column="3" Click="divide_Click">/</Button>
-        <Button x:Name="delete" Background="Gray" Grid.Row="2" Grid.Column="0">Del</Button>
-        <Button x:Name="Clear" Background="Gray" Grid.Row="2" Grid.Column="1">Clear</Button>
-        <Button x:Name="Del2" Background="Gray" Grid.Row="2" Grid.Column="2"></Button>
+        <Button x:Name="delete" Background="Gray" Grid.Row="2" Grid.Column="0">CE</Button>
+        <Button x:Name="Clear" Background="Gray" Grid.Row="2" Grid.Column="1">C</Button>
+        <Button x:Name="Del2" Background="Gray" Grid.Row="2" Grid.Column="2" Content="&lt;" Click="Del2_Click"></Button>
         <Button x:Name="Dot" Background="Gray" Grid.Row="6" Grid.Column="0" Click="Dot_Click">.</Button>
         <Button x:Name="Result" Background="Gray" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="2"> = </Button>
         <TextBlock x:Name="textBlock1" Background="BurlyWood" Foreground="Black" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Height="62" VerticalAlignment="Bottom" TextAlignment="Right"/>

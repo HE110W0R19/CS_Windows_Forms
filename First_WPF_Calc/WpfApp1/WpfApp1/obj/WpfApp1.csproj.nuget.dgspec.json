@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TuF\\Desktop\\Programs\\C#\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\TuF\\Documents\\GitHub\\CS_Windows_Forms\\First_WPF_Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TuF\\Desktop\\Programs\\C#\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\TuF\\Documents\\GitHub\\CS_Windows_Forms\\First_WPF_Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TuF\\Desktop\\Programs\\C#\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\TuF\\Documents\\GitHub\\CS_Windows_Forms\\First_WPF_Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Users\\TuF\\Desktop\\Programs\\C#\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\Users\\TuF\\Documents\\GitHub\\CS_Windows_Forms\\First_WPF_Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\TuF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TuF\\Desktop\\Programs\\C#\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "C:\\Users\\TuF\\Documents\\GitHub\\CS_Windows_Forms\\First_WPF_Calc\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TuF\\AppData\\Roaming\\NuGet\\NuGet.Config",

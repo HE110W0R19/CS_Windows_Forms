@@ -36,15 +36,24 @@ namespace WpfApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string tmp = (string)((Button)sender).Content;
-            if (tmp == "Clear" && textBlock2.Text.Length != 0)
+            if (tmp == "<" && textBlock2.Text.Length != 0)
+            {
                 textBlock2.Text = textBlock2.Text.Remove(textBlock2.Text.Length - 1);
-            if (tmp == "Del")
+            }
+            if (tmp == "C")
+            {
                 textBlock2.Text = "";
+                story = "";
+            }
+            if(tmp == "CE")
+            {
+                textBlock2.Text = "";
+            }
             if (tmp == "=")
             {
-                textBlock2.Text = new DataTable().Compute(textBlock2.Text, null).ToString();
+                textBlock2.Text = new DataTable().Compute(story, null).ToString();
                 textBlock1.Text = story + " = " + textBlock2.Text;
-                story = null;
+                story = textBlock2.Text;
             }
         }
 
@@ -110,32 +119,41 @@ namespace WpfApp1
 
         private void Dot_Click(object sender, RoutedEventArgs e)
         {
-            textBlock2.Text += ".";
+            textBlock2.Text = "";
             story += ".";
         }
 
         private void plus_Click(object sender, RoutedEventArgs e)
         {
-            textBlock2.Text += "+";
+            textBlock2.Text = "";
             story += "+";
+            textBlock1.Text = story;
         }
 
         private void minus_Click(object sender, RoutedEventArgs e)
         {
-            textBlock2.Text += "-";
+            textBlock2.Text = "";
             story += "-";
+            textBlock1.Text = story;
         }
 
         private void multy_Click(object sender, RoutedEventArgs e)
         {
-            textBlock2.Text += "*";
+            textBlock2.Text = "";
             story += "*";
+            textBlock1.Text = story;
         }
 
         private void divide_Click(object sender, RoutedEventArgs e)
         {
-            textBlock2.Text += "/";
+            textBlock2.Text = "";
             story += "/";
+            textBlock1.Text = story;
+        }
+
+        private void Del2_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
