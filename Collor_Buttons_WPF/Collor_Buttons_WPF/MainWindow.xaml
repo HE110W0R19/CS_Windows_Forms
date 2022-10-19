@@ -5,24 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Collor_Buttons_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="450">
     <Grid>
-        <Button Content="Navy" Foreground="Navy" HorizontalAlignment="Left" Margin="10,10,-1,0" VerticalAlignment="Top" Click="Button_Click" Grid.ColumnSpan="1"/>
-        <Button Content="Blue" Foreground="Blue" HorizontalAlignment="Left" Margin="46,10,-1,0" VerticalAlignment="Top" Click="Button_Click_1" Grid.ColumnSpan="1"/>
-        <Button Content="Aqua" Foreground="Aqua" HorizontalAlignment="Left" Margin="78,10,-1,0" VerticalAlignment="Top" Click="Button_Click_2" Grid.ColumnSpan="1"/>
-        <Button Content="Teal" Foreground="Teal" HorizontalAlignment="Left" Margin="115,10,-1,0" VerticalAlignment="Top" Click="Button_Click_3" Grid.ColumnSpan="1"/>
-        <Button Content="Olive" Foreground="Olive" HorizontalAlignment="Left" Margin="144,10,-1,0" VerticalAlignment="Top" Click="Button_Click_4" Grid.ColumnSpan="1"/>
-        <Button Content="Green" Foreground="Green" HorizontalAlignment="Left" Margin="180,10,-1,0" VerticalAlignment="Top" Click="Button_Click_5" Grid.ColumnSpan="1"/>
-        <Button Content="Lime" Foreground="Lime" HorizontalAlignment="Left" Margin="221,10,-1,0" VerticalAlignment="Top" Click="Button_Click_6" Grid.ColumnSpan="1"/>
-        <Button Content="Yellow" Foreground="Yellow" HorizontalAlignment="Left" Margin="255,10,-1,0" VerticalAlignment="Top" Click="Button_Click_7" Grid.ColumnSpan="1"/>
-        <Button Content="Orange" Foreground="Orange" HorizontalAlignment="Left" Margin="297,10,-1,0" VerticalAlignment="Top" Click="Button_Click_8" Grid.ColumnSpan="1"/>
-        <Button Content="Red" Foreground="Red" HorizontalAlignment="Left" Margin="345,10,-1,0" VerticalAlignment="Top" Click="Button_Click_9" Grid.ColumnSpan="1"/>
-        <Button Content="Maron" Foreground="Maroon" HorizontalAlignment="Left" Margin="374,10,-1,0" VerticalAlignment="Top" Click="Button_Click_10" Grid.ColumnSpan="1"/>
-        <Button Content="Fuchia" Foreground="Fuchsia" HorizontalAlignment="Left" Margin="419,10,-1,0" VerticalAlignment="Top" Click="Button_Click_11" Grid.ColumnSpan="1"/>
-        <Button Content="Purple" Foreground="Purple" HorizontalAlignment="Left" Margin="462,10,-1,0" VerticalAlignment="Top" Click="Button_Click_12" Grid.ColumnSpan="1"/>
-        <Button Content="Black" Foreground="Black" HorizontalAlignment="Left" Margin="505,10,-1,0" VerticalAlignment="Top" Click="Button_Click_13" Grid.ColumnSpan="1"/>
-        <Button Content="Silver" Foreground="Silver" HorizontalAlignment="Left" Margin="541,10,-1,0" VerticalAlignment="Top" Click="Button_Click_14" Grid.ColumnSpan="1"/>
-        <Button Content="Gray" Foreground="Gray" HorizontalAlignment="Left" Margin="577,10,-1,0" VerticalAlignment="Top" Click="Button_Click_15" Grid.ColumnSpan="1"/>
-        <Button Content="White" Foreground="White" HorizontalAlignment="Left" Margin="610,10,-1,0" VerticalAlignment="Top" Click="Button_Click_16" Grid.ColumnSpan="1"/>
+        <WrapPanel Orientation="Horizontal" Margin="0,0,150,0">
+            <Button Content="Navy" Foreground="Navy" Click="Button_Click" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Blue" Foreground="Blue" Click="Button_Click_1" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Aqua" Foreground="Aqua" Click="Button_Click_2" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Teal" Foreground="Teal" Click="Button_Click_3" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Olive" Foreground="Olive" Click="Button_Click_4" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Green" Foreground="Green"  Click="Button_Click_3" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Lime" Foreground="Lime" Click="Button_Click_6" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Yellow" Foreground="Yellow" Click="Button_Click_7" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Orange" Foreground="Orange" Click="Button_Click_8" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Red" Foreground="Red" Click="Button_Click_9" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Maron" Foreground="Maroon" Click="Button_Click_10" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Fuchia" Foreground="Fuchsia" Click="Button_Click_11" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Purple" Foreground="Purple" Click="Button_Click_12" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Black" Foreground="Black" Click="Button_Click_13" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Silver" Foreground="Silver" Click="Button_Click_14" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="Gray" Foreground="Gray" Click="Button_Click_13" Grid.ColumnSpan="1" Margin="3"/>
+            <Button Content="White" Foreground="White" Click="Button_Click_16" Grid.ColumnSpan="1" Margin="3"/>
+        </WrapPanel>
     </Grid>
 </Window>
