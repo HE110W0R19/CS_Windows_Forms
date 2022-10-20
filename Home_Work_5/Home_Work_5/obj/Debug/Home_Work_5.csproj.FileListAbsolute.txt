@@ -1,0 +1,10 @@
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.exe.config
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.exe
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.pdb
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.csproj.AssemblyReference.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.Form1.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.Properties.Resources.resources
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.csproj.GenerateResource.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.exe
+C:\Users\TuF\Documents\GitHub\CS_Windows_Forms\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.pdb
