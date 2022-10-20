@@ -15,7 +15,7 @@ namespace Home_Work_5
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
-
+            label1.Text = treeView1.SelectedNode.FullPath;
         }
         private void FillTreeNode(TreeNode driveNode, string path)
         {
@@ -75,6 +75,11 @@ namespace Home_Work_5
                     }
                 }
             }
+        }
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start
+                (new System.Diagnostics.ProcessStartInfo("explorer.exe","/select, "+label1.Text));
         }
     }
 }
