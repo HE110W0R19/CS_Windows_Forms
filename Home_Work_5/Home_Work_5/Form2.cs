@@ -79,7 +79,7 @@ namespace Home_Work_5
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start
-                (new System.Diagnostics.ProcessStartInfo("explorer.exe","/select, "+label1.Text));
+                (new System.Diagnostics.ProcessStartInfo(label1.Text));
         }
     }
 }
