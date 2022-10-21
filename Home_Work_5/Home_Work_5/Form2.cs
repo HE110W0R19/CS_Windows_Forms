@@ -81,5 +81,104 @@ namespace Home_Work_5
             System.Diagnostics.Process.Start
                 (new System.Diagnostics.ProcessStartInfo(label1.Text));
         }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem7_Click(object sender, EventArgs e)
+        {
+            this.treeView1.BackColor = System.Drawing.Color.White;
+        }
+
+        private void toolStripMenuItem8_Click(object sender, EventArgs e)
+        {
+            this.treeView1.BackColor = System.Drawing.Color.Black;
+        }
+
+        private void toolStripMenuItem9_Click(object sender, EventArgs e)
+        {
+            this.treeView1.BackColor = System.Drawing.Color.Red;
+        }
+
+        private void toolStripMenuItem10_Click(object sender, EventArgs e)
+        {
+            this.treeView1.BackColor = System.Drawing.Color.Green;
+        }
+
+        private void toolStripMenuItem11_Click(object sender, EventArgs e)
+        {
+            this.treeView1.BackColor = System.Drawing.Color.Blue;
+        }
+
+        private void toolStripMenuItem12_Click(object sender, EventArgs e)
+        {
+            this.treeView1.ForeColor = System.Drawing.Color.White;
+        }
+
+        private void toolStripMenuItem13_Click(object sender, EventArgs e)
+        {
+            this.treeView1.ForeColor = System.Drawing.Color.Black;
+        }
+
+        private void toolStripMenuItem14_Click(object sender, EventArgs e)
+        {
+            this.treeView1.ForeColor = System.Drawing.Color.Red;
+        }
+
+        private void toolStripMenuItem15_Click(object sender, EventArgs e)
+        {
+            this.treeView1.ForeColor = System.Drawing.Color.Green;
+        }
+
+        private void toolStripMenuItem16_Click(object sender, EventArgs e)
+        {
+            this.treeView1.ForeColor = System.Drawing.Color.Blue;
+        }
+
+        private void toolStripMenuItem17_Click(object sender, EventArgs e)
+        {
+            this.treeView1.Font = new System.Drawing.Font
+                (treeView1.Font.FontFamily, treeView1.Font.Size, System.Drawing.FontStyle.Bold);
+        }
+
+        private void toolStripMenuItem18_Click(object sender, EventArgs e)
+        {
+            this.treeView1.Font = new System.Drawing.Font
+               (treeView1.Font.FontFamily, treeView1.Font.Size, System.Drawing.FontStyle.Italic);
+        }
+
+        private void toolStripMenuItem19_Click(object sender, EventArgs e)
+        {
+            this.treeView1.Font = new System.Drawing.Font
+               (treeView1.Font.FontFamily, treeView1.Font.Size, System.Drawing.FontStyle.Underline);
+        }
+
+        private void toolStripMenuItem20_Click(object sender, EventArgs e)
+        {
+            this.treeView1.Font = new System.Drawing.Font
+               (treeView1.Font.FontFamily, treeView1.Font.Size, System.Drawing.FontStyle.Regular);
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
